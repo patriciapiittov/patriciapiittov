@@ -29,4 +29,4 @@ Trabalhei com marketing e e-commerce, incluindo operação de loja no TikTok Sho
 
 ## 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/patriciapiittov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciapiittov/)
