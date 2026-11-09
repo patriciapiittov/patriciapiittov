@@ -6,9 +6,8 @@ Estou em **transição de carreira para tecnologia**. Venho do marketing e do e-
 
 ## 📚 O que estou estudando
 
-- **JavaScript**: lógica de programação, condicionais, laços e interação com o usuário
+- **JavaScript**: lógica de programação, condicionais e interação com o usuário
 - **SQL (MySQL)**: modelagem de banco de dados relacional, chaves primárias e estrangeiras, relacionamentos N:N
-- **Lógica de programação**: exercícios em Portugol
 
 ## 🛠️ Tecnologias
 
@@ -21,7 +20,7 @@ Estou em **transição de carreira para tecnologia**. Venho do marketing e do e-
 | Projeto | O que é |
 |---|---|
 | [projetos-sql](https://github.com/patriciapiittov/projetos-sql) | Banco de dados de uma loja de roupas em MySQL: cadastro de funcionários, clientes, estoque e vendas |
-| [iniciante-em-programacao](https://github.com/patriciapiittov/iniciante-em-programacao) | Meus exercícios de JavaScript dos desafios da Alura e do 7 Days of Code |
+| [iniciante-em-programacao](https://github.com/patriciapiittov/iniciante-em-programacao) | Meus exercícios de JavaScript dos desafios da Alura |
 
 ## 💼 Antes da tecnologia
 
