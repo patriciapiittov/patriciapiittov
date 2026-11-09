@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou a Patrícia 👋
 
-<!--
-**patriciapiittov/patriciapiittov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em **transição de carreira para tecnologia**. Venho do marketing e do e-commerce e hoje estudo **Desenvolvimento de Sistemas no Senac** (conclusão prevista para dez/2027).
 
-Here are some ideas to get you started:
+🎯 **Procuro estágio em TI** (remoto ou híbrido). Também tenho interesse em vagas de trainee e júnior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 O que estou estudando
+
+- **JavaScript**: lógica de programação, condicionais, laços e interação com o usuário
+- **SQL (MySQL)**: modelagem de banco de dados relacional, chaves primárias e estrangeiras, relacionamentos N:N
+- **Lógica de programação**: exercícios em Portugol
+
+## 🛠️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📂 Projetos em destaque
+
+| Projeto | O que é |
+|---|---|
+| [projetos-sql](https://github.com/patriciapiittov/projetos-sql) | Banco de dados de uma loja de roupas em MySQL: cadastro de funcionários, clientes, estoque e vendas |
+| [iniciante-em-programacao](https://github.com/patriciapiittov/iniciante-em-programacao) | Meus exercícios de JavaScript dos desafios da Alura e do 7 Days of Code |
+
+## 💼 Antes da tecnologia
+
+Trabalhei com marketing e e-commerce, incluindo operação de loja no TikTok Shop. Dessa experiência eu trago a visão de negócio, o foco em resultado e o costume de trabalhar com dados de vendas.
+
+## 📫 Contato
+
+[![LinkedIn](https://www.linkedin.com/in/patriciapiittov/)
